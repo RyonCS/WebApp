@@ -1,0 +1,9 @@
+{
+    "name": "group-project",
+    "scripts": {
+      "start:frontend": "cd WUPHF_Backend && yarn start",
+      "start:backend": "cd wuphf_frontend && yarn start",
+      "start:both": "concurrently \"npm run start:frontend\" \"npm run start:backend\"",
+      "dev": "concurrently \"npm run frontend\" \"npm run backend\""
+    }
+  }

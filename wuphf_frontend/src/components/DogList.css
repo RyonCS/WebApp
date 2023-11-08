@@ -1,0 +1,26 @@
+.dogRow {
+    margin-top: 15px;
+}
+
+.card {
+    margin-top: 15px;
+}
+
+.dogsListCard {
+    width: 18rem;
+}
+
+div.poster {
+    margin: 10px;
+}
+
+.smallPoster {
+    height: 18rem;
+    width: 18rem;
+    user-select: none;
+}
+
+.cardTitle {
+    font-family: 'Times New Roman', Times, serif;
+
+}
