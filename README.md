@@ -14,16 +14,11 @@ My role was in implementing the backend including APIs and DAOs to properly pull
 <b>First Iteration</b>
 </p>
 
-![First Iteration](./Screenshots/LevelEditor.jpg)
+![First Iteration](./Screenshots/FirstIteration.png)
 
 <p align="center">
 <b>Final Result</b>
 </p>
 
-![Final Result](./Screenshots/SimpleLevel.jpg)
+![Final Result](./Screenshots/FinalResult.png)
 
-<p align="center">
-<b>Complex Level Creation</b>
-</p>
-
-![Complex Level Creation](./Screenshots/ComplexLevel.jpg)
